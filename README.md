@@ -1,5 +1,19 @@
 # papers
 Papers published in conjunction with the Kresovich Lab
+## 2021
+
+* [Boatwright *et al*., 2021](https://academic.oup.com/g3journal/article/11/4/jkab060/6157831?login=true): Boatwright, J. L., Brenton, Z. W., Boyles, R. E., Sapkota, S., Myers, M. T., Jordan, K. E., ... & Kresovich, S. (2021). Genetic characterization of a Sorghum bicolor multiparent mapping population emphasizing carbon-partitioning dynamics. G3, 11(4), jkab060.
+
+* [Shields *et al*., 2021](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.20348): Shields, L., Gang, Y., Jordan, K., Sapkota, S., Boatwright, L., Jiang, X., ... & Boyles, R. (2021). Genome‐wide association studies of antimicrobial activity in global sorghum. Crop Science, 61(2), 1301-1316.
+
+## 2020
+* [Sapkota *et al*., 2020](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/csc2.20060): Sirjan Sapkota, Richard Boyles, Elizabeth Cooper, Zachary Brenton, Matthew Myers, Stephen Kresovich. Impact of sorghum racial structure and diversity on genomic prediction of grain yield components. Crop Science. 60(1), 132-148.
+
+* [Sapkota *et al*., 2020](https://www.mdpi.com/801902): Sapkota, S., Boatwright, J. L., Jordan, K., Boyles, R., & Kresovich, S. (2020). Multi-trait regressor stacking increased genomic prediction accuracy of sorghum grain composition. Agronomy, 10(9), 1221
+
+* [Sapkota *et al*., 2020](https://www.mdpi.com/909632): Sapkota, S., Boatwright, J. L., Jordan, K., Boyles, R., & Kresovich, S. (2020). Identification of Novel Genomic Associations and Gene Candidates for Grain Starch Content in Sorghum. Genes, 11(12), 1448.
+
+
 
 ## 2019
 
